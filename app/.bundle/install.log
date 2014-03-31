@@ -1,0 +1,22 @@
+# Logfile created on 2014-03-31 18:03:23 +1030 by logger.rb/41954
+I, [2014-03-31T18:03:23.213152 #19862]  INFO -- : 0:  i18n (0.6.9) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/i18n-0.6.9.gemspec
+I, [2014-03-31T18:03:23.213700 #19862]  INFO -- : 0:  multi_json (1.9.2) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.9.2.gemspec
+I, [2014-03-31T18:03:23.214118 #19862]  INFO -- : 0:  activesupport (3.2.17) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/activesupport-3.2.17.gemspec
+I, [2014-03-31T18:03:23.214421 #19862]  INFO -- : 0:  builder (3.0.4) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/builder-3.0.4.gemspec
+I, [2014-03-31T18:03:23.214711 #19862]  INFO -- : 0:  activemodel (3.2.17) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/activemodel-3.2.17.gemspec
+I, [2014-03-31T18:03:23.215149 #19862]  INFO -- : 0:  coderay (1.1.0) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/coderay-1.1.0.gemspec
+I, [2014-03-31T18:03:23.215448 #19862]  INFO -- : 0:  curb (0.8.5) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/curb-0.8.5.gemspec
+I, [2014-03-31T18:03:23.215851 #19862]  INFO -- : 0:  hashie (2.0.5) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/hashie-2.0.5.gemspec
+I, [2014-03-31T18:03:23.216174 #19862]  INFO -- : 0:  method_source (0.8.2) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/method_source-0.8.2.gemspec
+I, [2014-03-31T18:03:23.216466 #19862]  INFO -- : 0:  moped (1.5.2) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/moped-1.5.2.gemspec
+I, [2014-03-31T18:03:23.216860 #19862]  INFO -- : 0:  origin (1.1.0) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/origin-1.1.0.gemspec
+I, [2014-03-31T18:03:23.217196 #19862]  INFO -- : 0:  tzinfo (0.3.39) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-0.3.39.gemspec
+I, [2014-03-31T18:03:23.217487 #19862]  INFO -- : 0:  mongoid (3.1.6) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/mongoid-3.1.6.gemspec
+I, [2014-03-31T18:03:23.217828 #19862]  INFO -- : 0:  slop (3.4.7) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/slop-3.4.7.gemspec
+I, [2014-03-31T18:03:23.218148 #19862]  INFO -- : 0:  pry (0.9.12.6) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-31T18:03:23.218415 #19862]  INFO -- : 0:  rack (1.5.2) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-03-31T18:03:23.218759 #19862]  INFO -- : 0:  rack-protection (1.5.2) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-31T18:03:23.219077 #19862]  INFO -- : 0:  tilt (1.4.1) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-03-31T18:03:23.220468 #19862]  INFO -- : 0:  sinatra (1.4.4) from /home/kieran/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-31T18:03:23.402590 #19862]  INFO -- : 0:  zeebox (0.0.1) from /home/kieran/dev/zeebox/zeebox.gemspec
+I, [2014-03-31T18:03:23.403003 #19862]  INFO -- : 0:  bundler (1.5.1) from /home/kieran/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
