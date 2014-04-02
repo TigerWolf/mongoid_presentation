@@ -1,0 +1,58 @@
+mongo
+db 
+
+use tvguide
+
+j = { name : "anchorman" }
+k = { x : 3 }
+
+db.testData.insert( j )
+db.testData.insert( k )
+
+show collections
+
+db.testData.find()
+
+db.testData.find
+
+// create some test data
+for (var i = 1; i <= 8; i++) db.testData.insert( { x : i, qty: 0 } )
+
+// find a specific document
+db.testData.find( { x : 5 } )
+
+//limit the results
+db.testData.find().limit(3)
+
+// run an update
+db.testData.update(
+   { x: 1 },
+   { $inc : { qty : 1 } },
+   { multi: true }
+)
+
+// run an update with a higher increment
+db.testData.update(
+   { x: 2 },
+   { $inc : { qty : 40 } },
+   { multi: true }
+)
+
+//replace any existing document
+db.testData.save(
+   {
+     _id: 10,
+     qty: 100,
+     b: "harrah!"
+   }
+)
+
+
+//Delete one document
+db.testData.remove( { x: 7 } )
+
+//Remove all documents
+db.testData.remove()
+
+//drop the data
+db.testData.drop()
